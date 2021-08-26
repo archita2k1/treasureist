@@ -13,4 +13,6 @@
   <h1>Account Page</h1>
   <br>
   <img src="https://user-images.githubusercontent.com/67641687/130907258-01829052-87a6-4652-923e-13f03539e169.PNG" width="800" height="400">
+  
+  Hoisted at https://archita2k1.github.io/treasureist/
 
